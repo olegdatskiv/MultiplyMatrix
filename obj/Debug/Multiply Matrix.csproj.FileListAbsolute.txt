@@ -1,0 +1,7 @@
+D:\ASP.NET MVC Fundamentals Student\My solutions\Multiply Matrix\bin\Debug\Multiply Matrix.exe.config
+C:\Users\Demo\Desktop\Multiply Matrix\bin\Debug\Multiply Matrix.exe.config
+C:\Users\Demo\Desktop\Multiply Matrix\bin\Debug\Multiply Matrix.exe
+C:\Users\Demo\Desktop\Multiply Matrix\bin\Debug\Multiply Matrix.pdb
+C:\Users\Demo\Desktop\Multiply Matrix\obj\Debug\Multiply Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Demo\Desktop\Multiply Matrix\obj\Debug\Multiply Matrix.exe
+C:\Users\Demo\Desktop\Multiply Matrix\obj\Debug\Multiply Matrix.pdb
